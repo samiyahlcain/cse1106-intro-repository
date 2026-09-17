@@ -1,14 +1,14 @@
 My README
 
-# CSE1106 Project
+CSE1106 Project
 
-## Description
+ Description
 
-## Technologies 
+ Technologies 
 
-## How to run 
+ How to run 
 
-## WHat I learned
+ What I learned
 
-## Future Improvements
+ Future Improvements
  
