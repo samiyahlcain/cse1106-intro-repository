@@ -1,2 +1,14 @@
 My README
-Samiyah
+
+# CSE1106 Project
+
+## Description
+
+## Technologies 
+
+## How to run 
+
+## WHat I learned
+
+## Future Improvements
+ 
